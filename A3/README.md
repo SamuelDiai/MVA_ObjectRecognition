@@ -1,6 +1,7 @@
 ## Object recognition and computer vision 2020/2021
 
 ### Assignment 3: Image classification 
+With the method detailed in the report.pdf file, I achieved an accuracy of 0.897% on the private leaderboard, allowing me to get to the 10th place.
 
 #### Requirements
 1. Install PyTorch from http://pytorch.org
